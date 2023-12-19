@@ -6,5 +6,5 @@ If you happen to be looking for an intern or trainee for your company, feel free
 
 💻 I possess basic knowledge of Java, Python, and C++. Currently, I am focusing on learning Javascript as my primary programming language.
 
-I also take commissions. Feel free to message me on my Facebook account; I would love to work with you!
+I also take commissions. Feel free to message me on my Facebook account; I would love to work with you!<br>
 [Check out my pinned post here.](https://web.facebook.com/hashtugs)
