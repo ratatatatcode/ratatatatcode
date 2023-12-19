@@ -1,8 +1,10 @@
-<strong>👋 Hi, James or you can call me "ratatatatcode"</strong>
-I don't have any reason why I used that username. It sounds cool for me.
+**👋 Hi, I'm James, or you can call me "ratatatatcode."**
 
-By any chances, you can contact me if you're looking for intern or trainee for your company.
-I would love to have an experience in IT industry at this age.
+I don't have a specific reason why I chose that username; it just sounds cool to me.
 
-💻 For now, I have some basic knowledge of Java, Python, and C++.
-I am currently focusing in learning Javascript as my main programming language.
+If you happen to be looking for an intern or trainee for your company, feel free to contact me. I would love to gain experience in the IT industry at this stage of my career.
+
+💻 I possess basic knowledge of Java, Python, and C++. Currently, I am focusing on learning Javascript as my primary programming language.
+
+I also take commissions. Feel free to message me on my Facebook account; I would love to work with you!
+[Check out my pinned post here.](https://web.facebook.com/hashtugs)
