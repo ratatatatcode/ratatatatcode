@@ -4,8 +4,7 @@ I don't have a specific reason why I chose that username; it just sounds cool to
 
 If you happen to be looking for an intern or trainee for your company, feel free to contact me. I would love to gain experience in the IT industry at this stage of my career.
 
-I also take commissions. Feel free to message me on my Facebook account; I would love to work with you!<br>
-[Check out my pinned post here.](https://web.facebook.com/hashtugs)
+My repository looks clean right now. I'm rebuilding my skill set, focusing on projects where I relied less or not at all on GPT/other LLMs.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=ratatatatcode&show_icons=true&theme=dark" alt="GitHub Stats" height="150px">
