@@ -11,6 +11,10 @@ My repository looks clean right now. I'm rebuilding my skill set, focusing on pr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratatatatcode&layout=compact&theme=dark" alt="Top Languages" height="150px"">
 </div>
 
+**You might not see some of my projects because I removed the ones I worked on extensively with ChatGPT.**
+
+****
+
 **Tech Stack:**
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
