@@ -4,12 +4,11 @@ I don't have a specific reason why I chose that username; it just sounds cool to
 
 If you happen to be looking for an intern or trainee for your company, feel free to contact me. I would love to gain experience in the IT industry at this stage of my career.
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=ratatatatcode&show_icons=true&theme=dark" alt="GitHub Stats" height="150px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratatatatcode&layout=compact&theme=dark" alt="Top Languages" height="150px"">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratatatatcode&layout=compact&theme=dark" alt="Top Languages" height="150px">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ratatatatcode&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
-
-****
 
 **Tech Stack:**
 <br>
